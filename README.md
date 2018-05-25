@@ -1,2 +1,2 @@
 # hello-world
-This is a example project
+Hi humans!
